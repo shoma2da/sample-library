@@ -26,6 +26,9 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.0.0'
 }
 
+group = 'com.hatenablog.shoma2da.sample_library'
+version = '1.0'
+
 def siteUrl = 'https://github.com/shoma2da/sample-library'
 def gitUrl = 'https://github.com/shoma2da/sample-library.git'
 
